@@ -2,4 +2,4 @@ APP_CONFIG:
   systemPwd: "!di123$?"
 logging:
   level:
-    com.example: ERROR
+    com.example: WARN
